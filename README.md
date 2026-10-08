@@ -4,6 +4,10 @@ A sales analytics project built with Python, Pandas, MySQL, and Streamlit.
 
 The dashboard analyzes sales performance, monthly revenue, product performance, customer activity, category trends, and regional revenue.
 
+## 🔗 Live Demo
+
+[Open the Sales Analytics Dashboard](https://divyang-sales-analytics-dashboard.streamlit.app)
+
 ## 🚀 Features
 
 - View total revenue
